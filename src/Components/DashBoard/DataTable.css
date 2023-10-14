@@ -1,0 +1,19 @@
+.data-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    /* color: white; */
+  }
+  
+  .data-table th, .data-table td {
+    border: 1px solid #3c009d;
+    padding: 8px 12px;
+    /* border-radius: 25px; */
+  }
+  
+  .data-table thead {
+    color: #3c009d;
+  }
+  
+  
+  
